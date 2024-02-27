@@ -1,6 +1,6 @@
-# Title (replace with your title)
+# RegEx Tutorial
 
-Introductory paragraph (replace this with your text)
+Introductory paragraph  
 
 ## Summary
 
